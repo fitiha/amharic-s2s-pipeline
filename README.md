@@ -88,4 +88,4 @@ Timings are measured on Kaggle (2x Tesla T4). The "time to first audio" figure i
 
 ## License
 
-Add a license after you confirm what you are allowed to publish.
+MIT
